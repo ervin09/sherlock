@@ -11,10 +11,13 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
-LessWrong
+LiveJournal
 LushStories
+Minecraft
+Outgress
 Patched
 Pornhub
 Rarible
@@ -23,6 +26,7 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
@@ -38,3 +42,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
