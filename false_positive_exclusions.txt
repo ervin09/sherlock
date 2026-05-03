@@ -7,12 +7,14 @@ ArtStation
 Bandcamp
 Codolio
 Cults3D
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 LushStories
 Patched
 Pornhub
@@ -26,6 +28,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -33,6 +36,8 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
+xHamster
