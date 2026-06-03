@@ -4,6 +4,7 @@ Airliners
 Apple Discussions
 Archive.org
 ArtStation
+Audiojungle
 Bandcamp
 Codolio
 DeviantArt
@@ -15,7 +16,6 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 OurDJTalk
 Patched
 Pornhub
@@ -27,7 +27,6 @@ RocketTube
 Scribd
 Shelf
 SlideShare
-Smule
 Splice
 Spotify
 Trovo
