@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
 Codolio
 Cults3D
 Discord.bio
@@ -18,7 +17,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
+OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -31,6 +30,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Velomania
 Weblate
