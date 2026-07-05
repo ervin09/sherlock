@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+BoardGameGeek
 BreachSta.rs Forum
 Codolio
 DeviantArt
@@ -17,9 +18,7 @@ Houzz
 Hubski
 LessWrong
 LushStories
-Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Rarible
