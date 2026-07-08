@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -21,7 +20,7 @@ LushStories
 Odysee
 PCGamer
 Patched
-Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -45,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
