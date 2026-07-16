@@ -6,11 +6,13 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+BoardGameGeek
 BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -20,6 +22,7 @@ LessWrong
 LushStories
 Odysee
 PCGamer
+Patched
 Pornhub
 Rarible
 Realmeye
@@ -44,4 +47,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
