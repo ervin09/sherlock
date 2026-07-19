@@ -1,9 +1,7 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive.org
 ArtStation
 Bandcamp
 BreachSta.rs Forum
@@ -44,4 +42,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
