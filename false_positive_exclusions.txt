@@ -1,13 +1,12 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BreachSta.rs Forum
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -20,6 +19,7 @@ LushStories
 Odysee
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -43,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
