@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -9,6 +8,7 @@ Bandcamp
 Codolio
 DeviantArt
 Discord.bio
+Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -19,7 +19,6 @@ LushStories
 Odysee
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -43,4 +42,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
