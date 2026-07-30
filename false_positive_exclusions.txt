@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -18,10 +19,10 @@ Hubski
 Instapaper
 LessWrong
 LushStories
-Minecraft
 Odysee
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -29,10 +30,10 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Signal
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Weblate
