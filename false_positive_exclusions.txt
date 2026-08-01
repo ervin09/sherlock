@@ -5,21 +5,24 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
+Houzz
 Hubski
 Instapaper
+Itch.io
 LessWrong
+LushStories
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -32,10 +35,10 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
