@@ -5,13 +5,12 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
 Chatujme.cz
 Codolio
 Cracked Forum
+Cults3D
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -20,10 +19,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LiveJournal
-Minecraft
+LushStories
 Odysee
-OurDJTalk
 PCGamer
 Rarible
 Realmeye
@@ -36,7 +33,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
