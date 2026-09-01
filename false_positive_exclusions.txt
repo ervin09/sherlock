@@ -1,7 +1,6 @@
 7Cups
 APClips
 Airliners
-Anilist
 Apple Developer
 Apple Discussions
 Archive.org
@@ -20,7 +19,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 Odysee
 PCGamer
 Pornhub
@@ -43,13 +41,12 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
-xHamster
