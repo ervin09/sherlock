@@ -5,6 +5,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
+Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -19,6 +21,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
+ObservableHQ
 Odysee
 PCGamer
 Pornhub
@@ -46,7 +50,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
