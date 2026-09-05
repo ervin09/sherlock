@@ -5,7 +5,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -20,9 +19,10 @@ Houzz
 Hubski
 Instapaper
 ObservableHQ
+Odysee
 PCGamer
 Pornhub
-Rarible
+Rajce.net
 Realmeye
 Reddit
 ReverbNation
@@ -32,6 +32,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -46,5 +47,6 @@ interpals
 mercadolivre
 opennet
 phpRU
+social.tchncs.de
 svidbook
 xHamster
