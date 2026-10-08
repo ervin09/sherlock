@@ -3,11 +3,11 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-BabyRu
 Bandcamp
 Blogger
 CGTrader
 Championat
+Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -15,6 +15,7 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+GitBook
 HackerNews
 Hashnode
 Houzz
@@ -24,6 +25,7 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -48,5 +50,6 @@ igromania
 interpals
 mercadolivre
 opennet
+phpRU
 social.tchncs.de
 svidbook
