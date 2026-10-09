@@ -15,7 +15,6 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-GitBook
 HackerNews
 Hashnode
 Houzz
@@ -25,7 +24,6 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -45,6 +43,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 igromania
 interpals
