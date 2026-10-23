@@ -5,8 +5,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 CGTrader
-Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -23,8 +23,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-NationStates Nation
-NationStates Region
 ObservableHQ
 Odysee
 PCGamer
@@ -53,3 +51,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
