@@ -20,7 +20,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -37,6 +36,7 @@ Spotify
 Trakt
 TryHackMe
 Velomania
+Vero
 Weblate
 YandexMusic
 authorSTREAM
@@ -49,3 +49,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
