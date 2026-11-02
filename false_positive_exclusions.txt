@@ -1,9 +1,9 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -23,7 +23,6 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
-Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -35,6 +34,7 @@ Splice
 Spotify
 Trakt
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
@@ -47,4 +47,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
