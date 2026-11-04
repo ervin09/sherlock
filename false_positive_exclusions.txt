@@ -1,9 +1,13 @@
+APClips
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -31,6 +35,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -39,9 +44,11 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
