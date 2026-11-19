@@ -2,9 +2,9 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-Championat
+Carbonmade
 Chatujme.cz
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -14,9 +14,8 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
+LibraryThing
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -24,12 +23,12 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
